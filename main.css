@@ -38,6 +38,8 @@ article p {
 
 .first-p {
     color: cornflowerblue;
+    border: 2px dashed cornflowerblue;
+    padding: 2%;
 }
 
 footer {
