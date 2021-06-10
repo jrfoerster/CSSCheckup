@@ -45,6 +45,7 @@ article p {
 footer {
     background-color: black;
     color: white;
-    padding: 2%;
+    height: 50px;
+    line-height: 50px;
     text-align: center;
 }
